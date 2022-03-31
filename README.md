@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VitalPandu
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Spring Boot
+- 💞️ I’m looking to collaborate on ... Interesting and Challanging Project
 - 📫 How to reach me ...vittalpandu@protonmail.com
 
 <!---
